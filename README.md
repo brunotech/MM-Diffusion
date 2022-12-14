@@ -5,7 +5,7 @@ This is the official PyTorch implementation of the paper [MM-Diffusion: Learning
 ## Introduction
 We propose the first joint audio-video generation framework named MM-Diffusion that brings engaging watching and listening experiences simultaneously, towards high-quality realistic videos.  MM-Diffusion consists of a sequential multi-modal U-Net. Two subnets for audio and video learn to gradually generate aligned audio-video pairs from Gaussian noises.
 
-<img src="./fig/teaser.png" width=70%>
+<img src="./fig/teaser.png" width=100%>
 
 
 ### Overview
@@ -13,17 +13,17 @@ We propose the first joint audio-video generation framework named MM-Diffusion t
 
 
 ### Visualize
-The generated video examples on landscape:
+The generated audio-video examples on landscape:
 
-<video src="./fig/landscape.mp4" controls="controls" >您的浏览器不支持播放该视频！</video>
+https://user-images.githubusercontent.com/105475691/207589456-52914a01-1175-4f77-b8f5-112d97013f7c.mp4
 
-The generated video examples on AIST++:
+The generated audio-video examples on AIST++:
 
-<video src="./fig/aist++.mp4" controls="controls" >您的浏览器不支持播放该视频！</video>
+https://user-images.githubusercontent.com/105475691/207589611-fe300424-e5e6-4379-a917-d9a07e9dd8fb.mp4
 
-The generated video examples on Audioset:
+The generated audio-video examples on Audioset:
 
-<video src="./fig/audioset.mp4" controls="controls" >您的浏览器不支持播放该视频！</video>
+https://user-images.githubusercontent.com/105475691/207589639-0a371435-f207-4ff4-a78e-3e9c0868d523.mp4
 
 ## Citation
 If you find our work useful for your research, please consider citing our paper. :blush:
